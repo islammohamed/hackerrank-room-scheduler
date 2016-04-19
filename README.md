@@ -1,6 +1,6 @@
 # How to use the room Scheduler.
 
 You can execute the Scheduler using the following command
-{code}
+```python
 python scheduler.py
-{code}
+```
