@@ -1,2 +1,6 @@
-# hackerrank-room-scheduler
-Implementation of room-scheduler using greedy algorithm
+# How to use the room Scheduler.
+
+You can execute the Scheduler using the following command
+{code}
+python scheduler.py
+{code}
