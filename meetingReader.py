@@ -17,7 +17,7 @@ class MeetingReader:
     def validate(self, meeting_entry):
         return self.meeting_re.match(meeting_entry)
 
-    def getLines(self):
+    def get_lines(self):
         self._read()
         for meeting_title in self.meeting_entries:
             input_re = self.validate(meeting_title)
